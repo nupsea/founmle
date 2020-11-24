@@ -10,6 +10,7 @@ jupyter = "*"
 pandas = "*"
 pytest = "*"
 matplotlib = "*"
+twine = "*"
 
 [requires]
 python_version = "3.7"
