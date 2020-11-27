@@ -1,8 +1,12 @@
 Pipfile.lock
 .ipynb_checkpoints
+.idea
 
 __pycache__/
 *.py[cod]
 *$py.class
 
+*build
+*dist
+*egg-info
 
